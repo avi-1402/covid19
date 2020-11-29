@@ -1,0 +1,9 @@
+1) ./project2 will run the code.
+
+2) The code could take even hours to run depending on the size of population.
+
+3) As specified, the code only runs for 3% and 5% of the service provider percentage.
+
+4) If the size of population is too low, the code might run an infinite loop.
+
+5) Please run the code in full screen, as the output indentation is according to full screen display.
